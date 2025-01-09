@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Gideon Kiplangat
               </span>
             </h2>
             
@@ -214,10 +214,11 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
-              tertarik dalam pengembangan Front-End. Saya berfokus pada
-              menciptakan pengalaman digital yang menarik dan selalu berusaha
-              memberikan solusi terbaik dalam setiap proyek.
+              Innovative full-stack developer and founder of NexusGK Softwares, 
+              with 4+ years of experience in mobile app creation, cybersecurity,
+               and e-commerce solutions. Skilled in delivering impactful projects like Management Systems
+                and AI Environmental Impact Analyzer, with a focus on cloud integration,
+               responsive designs, and ethical hacking.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
