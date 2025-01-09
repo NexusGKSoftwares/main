@@ -183,7 +183,9 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  Menciptakan Website Yang Inovatif, Fungsional, dan User-Friendly untuk Solusi Digital.
+                  Innovative full-stack developer and founder of NexusGK Softwares,
+                   with 4+ years of experience in mobile app creation, cybersecurity, 
+                   and website solutions....
                 </p>
 
                 {/* Tech Stack */}
